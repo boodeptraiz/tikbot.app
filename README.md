@@ -23,7 +23,7 @@ How to Download TikTok Videos: Your Options Explored
 
 Whether you’re on your phone, tablet, or computer, there’s a TikTok downloader method for you:
 
-1. Download TikTok Videos Online (No App!):
+1. Download TikTok Videos Online: https://tikbot.app (No App!):
 
     How It Works: Paste the TikTok video link into an online downloader website. The website will extract the video and provide a download link.
     Pros: No software installation needed; works across devices; great for quick, occasional downloads.
